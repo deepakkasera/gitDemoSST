@@ -1,1 +1,1 @@
-This is the first file inside the project.
+This is the first file inside the project. Added some more text in the main branch.
