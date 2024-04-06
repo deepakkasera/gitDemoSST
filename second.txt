@@ -1,1 +1,2 @@
 This is the second file in the project.
+Added some more text in the second file.
